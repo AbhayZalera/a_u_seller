@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Men Shoes",
+      "subcategory": [
+        " Men Formal",
+        "Men Sport"
+      ]
+    },
+    {
+      "name": "Women Shoes",
+      "subcategory": [
+        "Women Formal",
+        "Women Sport"
+      ]
+    },
+    {
+      "name": "Kid Shoes",
+      "subcategory": [
+        "Kid Formal",
+        "Kid Sport"
+      ]
+    },
+    {
+      "name": "Men sandals",
+      "subcategory": [
+        "Men Casual"
+      ]
+    },
+    {
+      "name": "Women sandals",
+      "subcategory": [
+        "Women Casual",
+        "Women Heels"
+      ]
+    },
+    {
+      "name": "Kid sandals",
+      "subcategory": [
+        "Kid Casual"
+
+      ]
+    },
+    {
+      "name": "Men Slippers",
+      "subcategory": [
+        "Men Indoor",
+        "Men Outdoor"
+      ]
+    },
+    {
+      "name": "Women Slippers",
+      "subcategory": [
+        "Women Indoor",
+        "Women Outdoor"
+      ]
+    },
+    {
+      "name": "Kid Slippers",
+      "subcategory": [
+        "Kid Indoor",
+        "Kid Outdoor"
+      ]
+    }
+  ]
+}
